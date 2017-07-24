@@ -360,6 +360,8 @@ body {
 
 	.persistent-header {
 		height: 175px;
+		padding-left: 0px;
+		padding-right: 0px;
 	}
 	
 	.header-container {
